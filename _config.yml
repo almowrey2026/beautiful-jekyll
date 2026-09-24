@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Alissa Data Science Portfolio
 
 # Your name to show in the footer
-author: Some Person
+author: Alissa Power
 
 # --- List of links in the navigation bar --- #
 
@@ -65,8 +65,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
-
+rss-description: A portfolio of data science projects and coursework
 # --- General options --- #
 
 # Select which social network share links to show in posts
